@@ -299,7 +299,7 @@ def main():
         visibility: hidden;
     }
     
-    .stApp > header {
+    header {
         visibility: hidden;
     }
     
